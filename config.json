@@ -1,0 +1,9 @@
+{
+    "serverConfig": {
+    "server"      : "server/host_address", 
+    "port"        : "port_number",
+    "username"    : "server_user_name",
+    "password"    : "password",
+    "senderEmail" : "sender_email_address"
+  }
+}
